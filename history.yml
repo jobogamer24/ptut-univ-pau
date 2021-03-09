@@ -1,0 +1,370 @@
+---
+valuation: "data: {\"current\":85,\"last\":72,\"id\":\"valuation\",\"updatedAt\":1614205680392}\n\n"
+karma: "data: {\"current\":176236,\"last\":161607,\"id\":\"karma\",\"updatedAt\":1614205680392}\n\n"
+synergy: "data: {\"value\":2,\"id\":\"synergy\",\"updatedAt\":1614205680392}\n\n"
+buzzwords: "data: {\"items\":[{\"label\":\"Enterprise\",\"value\":13},{\"label\":\"Streamlininess\",\"value\":11},{\"label\":\"Pivoting\",\"value\":12},{\"label\":\"Turn-key\",\"value\":10},{\"label\":\"Web
+  2.0\",\"value\":8},{\"label\":\"Exit strategy\",\"value\":5},{\"label\":\"Paradigm
+  shift\",\"value\":6},{\"label\":\"Leverage\",\"value\":7},{\"label\":\"Synergy\",\"value\":11}],\"id\":\"buzzwords\",\"updatedAt\":1614205680392}\n\n"
+convergence: "data: {\"points\":[{\"x\":84,\"y\":40},{\"x\":85,\"y\":17},{\"x\":86,\"y\":43},{\"x\":87,\"y\":17},{\"x\":88,\"y\":44},{\"x\":89,\"y\":29},{\"x\":90,\"y\":49},{\"x\":91,\"y\":7},{\"x\":92,\"y\":35},{\"x\":93,\"y\":15}],\"id\":\"convergence\",\"updatedAt\":1614205680392}\n\n"
+univ-pau: "data: {\"headlines\":[{\"title\":\"Portes ouvertes 2021 : une édition virtuelle\",\"description\":\"\\n\\t\\t\\t\\t\\t\\n\\t\\t\\t\\tAu
+  programme : des web conférences avec des enseignants, des étudiants et des animateurs
+  de la vie étudiante pour présenter les diplômes et des vidéos pour découvrir les
+  campus.\"},{\"title\":\"Don de sang\",\"description\":\"\\n\\t\\t\\t\\t\\t\\n\\t\\t\\t\\t\"},{\"title\":\"Nuit
+  de la lecture à la BU \\\"DéLIVREz-moi !\\\"\",\"description\":\"\\n\\t\\t\\t\\t\\t\\n\\t\\t\\t\\t\"},{\"title\":\"Enquête
+  sur les pratiques culinaires des étudiants palois\",\"description\":\"\\n\\t\\t\\t\\t\\t\\n\\t\\t\\t\\t\"},{\"title\":\"Inscriptions
+  aux UE Libres\",\"description\":\"\\n\\t\\t\\t\\t\\t\\n\\t\\t\\t\\t\"},{\"title\":\"Fermeture
+  administrative durant les fêtes de fin d'année\",\"description\":\"\"},{\"title\":\"Laurent
+  Bordes élu nouveau président de l’Université\",\"description\":\"\\n\\t\\t\\t\\t\\t\\n\\t\\t\\t\\tLe
+  nouveau conseil d’administration a élu Laurent Bordes à la présidence de l’Université
+  de Pau et des Pays de l’Adour pour une durée de 4 ans. Il succède à Mohamed Amara.\"},{\"title\":\"Prix
+  \\\"Heptaméron de la nouvelle\\\" 2020\",\"description\":\"\\n\\t\\t\\t\\t\\t\\n\\t\\t\\t\\tJeudi
+  3 décembre, à 14 heures, seront proclamés les résultats du concours en direct sur
+  notre chaîne YouTube et Radio Campus.\"},{\"title\":\"Clôture du projet ECBS \\\"European
+  Cross-Border Skills\\\"\",\"description\":\"\\n\\t\\t\\t\\t\\t\\n\\t\\t\\t\\tLe
+  projet ECBS est un partenariat stratégique financé par la Commission européenne
+  à travers le programme Erasmus+\"},{\"title\":\"Stop aux violences faites aux femmes\",\"description\":\"\\n\\t\\t\\t\\t\\t\\n\\t\\t\\t\\t\"},{\"title\":\"Vous
+  avez envie d'arrêter de fumer ?\",\"description\":\"\\n\\t\\t\\t\\t\\t\\n\\t\\t\\t\\t\"},{\"title\":\"Accès
+  aux Bibliothèques de l'UPPA sur rendez-vous\",\"description\":\"\\n\\t\\t\\t\\t\\t\\n\\t\\t\\t\\t\"},{\"title\":\"Défi
+  étudiant, imaginez le campus de demain\",\"description\":\"\\n\\t\\t\\t\\t\\t\\n\\t\\t\\t\\tLa
+  session 2020 est annulée - Les participants sont les étudiants de l’UPPA, à l’exception
+  des doctorants. Ils constituent des équipes pluridisciplinaires de 2 à 5 étudiants.
+  Ils sont ac...\"},{\"title\":\"Covid-19 - Télé-enseignement des formations de l'ENSGTI
+  sur Pau\",\"description\":\"\\n\\t\\t\\t\\t\\t\\n\\t\\t\\t\\t\"},{\"title\":\"Lycéens,
+  rendez-vous sur Instagram pour #découvreTaFutureUniversité\",\"description\":\"\\n\\t\\t\\t\\t\\t\\n\\t\\t\\t\\tLycéens
+  posez vos questions sur la vie universitaire et les études à nos étudiantes ambassadrices.\"},{\"title\":\"Covid-19
+  - Fermeture département formations IUT sur Mont-de-Marsan\",\"description\":\"\\n\\t\\t\\t\\t\\t\\n\\t\\t\\t\\t\"},{\"title\":\"Enfin
+  jeudi ! Le printemps \\\"Automne\\\" des poètes de l'UPPA\",\"description\":\"\\n\\t\\t\\t\\t\\t\\n\\t\\t\\t\\t\"},{\"title\":\"Enfin
+  jeudi ! Clap Fac : Etudiants, l'avenir à crédit\",\"description\":\"\\n\\t\\t\\t\\t\\t\\n\\t\\t\\t\\t\"},{\"title\":\"Enfin
+  jeudi ! Comment s'informer ?\",\"description\":\"\\n\\t\\t\\t\\t\\t\\n\\t\\t\\t\\t\"},{\"title\":\"AMI
+  Les défis des étudiants Transfrontaliers 2020-2021\",\"description\":\"\\n\\t\\t\\t\\t\\t\\n\\t\\t\\t\\t\"}],\"id\":\"univ-pau\",\"updatedAt\":1613814569043}\n\n"
+weather: "data: {\"temp\":\"12 &deg;C\",\"condition\":\"Clear\",\"title\":\"Mont-de-Marsan\",\"color\":\"#18A9FF\",\"climacon\":\"sun\",\"id\":\"weather\",\"updatedAt\":1614205674466}\n\n"
+bbc-tech: "data: {\"headlines\":[{\"title\":\"Margaret Mitchell: Google fires AI ethics
+  founder\",\"description\":\"She is the second senior figure to leave the online
+  giant's ethics unit over the past few months.\"},{\"title\":\"WhatsApp to go ahead
+  with changes despite backlash\",\"description\":\"The messaging app is making a
+  second attempt to convince users to accept its new privacy policy.\"},{\"title\":\"Uber
+  drivers are workers not self-employed, Supreme Court rules\",\"description\":\"The
+  decision could mean thousands of Uber drivers are set to receive minimum wage and
+  holiday pay.\"},{\"title\":\"Clubhouse downloads double in two weeks, analytics
+  firm says\",\"description\":\"App Annie says downloads of the audio app went up
+  from 3.5m to 8.1m in 16 days this month.\"},{\"title\":\"'Smart' face masks promise
+  high-tech protection\",\"description\":\"BBC Click's Lara Lewington puts some \\\"smart\\\"
+  face masks to the test.\"},{\"title\":\"Black Country: Facebook censured local dish
+  chat\",\"description\":\"It has apologised to a history group after saying a Black
+  Country delicacy violated its standards.\"},{\"title\":\"'Kill switch' failed as
+  drone hit controlled space near Gatwick\",\"description\":\"The drone had gone out
+  of control during a demonstration flight at Goodwood Aerodrome.\"},{\"title\":\"Robinhood
+  boss says GameStop episode 'unacceptable'\",\"description\":\"Lawmakers grill key
+  players in the GameStop trading frenzy at a hearing in Washington.\"},{\"title\":\"Nvidia
+  limits crypto-mining on new graphics card\",\"description\":\"Nvidia's latest graphics
+  card will deliberately slow down if used to mine a popular crypto-currency.\"},{\"title\":\"Huawei
+  turns to pig farming as smartphone sales fall\",\"description\":\"The Chinese telecoms
+  giant is also pivoting into coal mining technology amid US sanctions on its phones.\"},{\"title\":\"UK
+  to launch 'high risk' science agency\",\"description\":\"The new agency will help
+  \\\"cement the UK's position as a science superpower\\\", the government says.\"},{\"title\":\"Hawk-Eye
+  Live could replace Wimbledon line judges and other news\",\"description\":\"BBC
+  Click's Jen Copestake looks at some of the best technology news stories of the week.\"},{\"title\":\"Omegle:
+  Children expose themselves on video chat site\",\"description\":\"A BBC investigation
+  finds what appears to be children exposing themselves to strangers on the website.\"},{\"title\":\"Nasa
+  Perseverance rover: How this Mars landing will be different\",\"description\":\"Nasa's
+  Perseverance rover is aiming for Jezero Crater, considered “too dangerous” for previous
+  spacecraft.\"},{\"title\":\"ZoomOut: Waving goodbye to awkward video call endings\",\"description\":\"ZoomOut,
+  a device which ends a video call at the pull of a cord has been developed.\"},{\"title\":\"Health
+  check: Measuring vital signs with a smartphone\",\"description\":\"Lara Lewington
+  looks at technology which can help with remote diagnosis and health monitoring.\"},{\"title\":\"The
+  search widens for hot rocks that provide power\",\"description\":\"Geothermal power
+  projects have seen a surge of investment as countries encourage renewable energy.\"},{\"title\":\"Omegle:
+  Children expose themselves on video chat site\",\"description\":\"Omegle links up
+  random people for virtual video and text chats, and claims to be moderated.\"},{\"title\":\"Australia
+  news code: What’s this row with Facebook and Google all about?\",\"description\":\"A
+  law that would force tech firms to pay for news is being closely watched globally.
+  We explain why.\"},{\"title\":\"Broadband credit score mistake 'cost me £3,500'\",\"description\":\"Omar
+  Khalid says a mistake by broadband provider Virgin Media damaged his credit score
+  for years.\"},{\"title\":\"'Most healthcare apps not up to NHS standards'\",\"description\":\"A
+  firm which reviews apps for several NHS trusts says 80% do not meet its standards.\"},{\"title\":\"The
+  hypercar maker who was told to give up his dream\",\"description\":\"Mate Rimac
+  struggled to get anyone to believe that cutting edge sportscars could be made in
+  Croatia.\"}],\"id\":\"bbc-tech\",\"updatedAt\":1613814986407}\n\n"
+mashable: "data: {\"headlines\":[{\"title\":\"Watch sport from all around the world
+  with this beginner-friendly VPN\",\"description\":\"SAVE 82%: A three-year subscription
+  to CyberGhost VPN is on sale for £1.99 per month as of Feb. 20, and includes an
+  extra three months for free.\\n\\nHow are you planning on spending the weekend?
+  You c...\"},{\"title\":\"Stream more movies from around the world with NordVPN\",\"description\":\"SAVE
+  69%: A two-year subscription to NordVPN is on sale for £2.74 per month as of Feb.
+  20, saving you 69% on list price.\\n\\nThere are two big reasons to consider investing
+  in NordVPN this weekend. Th...\"},{\"title\":\"Save 97% on this online productivity
+  and motivation bundle\",\"description\":\"TL;DR: The Productivity and Motivation
+  Master Class Bundle is on sale for £25.15 as of Feb. 20, saving you 97% on list
+  price.\\n\\nBeing productive is so much more than simply doing. There are methods
+  ...\"},{\"title\":\"Start trading and investing with this beginner-friendly course\",\"description\":\"TL;DR:
+  The Stock Trading and Cryptocurrency Trading Course is on sale for £10.77 as of
+  Feb. 20, saving you 92% on list price.\\n\\nDo you want to be able to explain exactly
+  what happened with GameStop ...\"},{\"title\":\"All the best antivirus software
+  options for your Mac\",\"description\":\"You've probably heard that Macs don't need
+  antivirus software. Whoever told you that was wrong.\\nThe idea that Macs are generally
+  more secure than PCs isn't totally off-base. Windows does tend to ha...\"},{\"title\":\"The
+  'WandaVision' secret villain might have everything in common with Wanda\",\"description\":\"Isn’t
+  it nice when a fan theory works out? What a relief. It’s OK, everyone, we can stop
+  calling WandaVision’s number one most suspicious neighbor “Agnes” now. She was Agatha
+  all along. \\nIn true Wa...\"},{\"title\":\"County clerk's accidental TikTok posts
+  not 'supposed to be seen by anybody,' now seen by everybody\",\"description\":\"All
+  of TikTok is bidding goodbye to Connie, the subject of a series of random farewell
+  videos that are now a gigantic online hit thanks to a few accidental uploads and
+  a misunderstanding of how Tik...\"},{\"title\":\"Pierogi the puppy crashes live
+  weather report and awwwwww\",\"description\":\"\\n\\n\\n\\nIt may be cold out there,
+  but thanks to Pierogi our hearts are warm. \\nAs below-freezing temperatures continue
+  to slam much of the country this week, FOX 5 DC's Bob Barnard took to the streets
+  o...\"},{\"title\":\"How you can support the safety of Asian Americans with attacks
+  on the rise\",\"description\":\"In addition to the trauma of the global pandemic,
+  it's been a year of increased racist and violent rhetoric against Asian American
+  communities across the country. After a series of horrific attacks...\"},{\"title\":\"Inside
+  Perseverance mission control: A surreal experience that brought sci-fi to life\",\"description\":\"As
+  Perseverance careened toward Mars Thursday, the live broadcast from inside mission
+  control oozed tension. It felt like science fiction to Swati Mohan, who managed
+  the rover's descent and kept th...\"},{\"title\":\"10 excellent Oscar–winning movies
+  you can watch on Netflix\",\"description\":\"Few nights in Hollywood's calendar
+  year come close to the glitz and glamour of the Academy Awards. An Oscar statuette
+  is a crowning achievement for anyone involved in the production of film, and th...\"},{\"title\":\"Apple
+  looks to rid App Store of ‘rip-off’ scam apps that trick users into paying large
+  sums\",\"description\":\"App Store developers that charge exorbitant prices for
+  their apps or in-app purchases better have a good reason to justify it.\\nApple
+  is looking to crack down on apps that's prices “do not reflect t...\"},{\"title\":\"REVOLVE
+  AIR is a super compact wheelchair that folds to the size of carry-on luggage – Future
+  Blink\",\"description\":\"The wheelchair features collapsible wheels that allow
+  it to take up 60% less space.  Read more...More about Mashable Video, Planes, Wheelchair,
+  Foldable, and Future Blink\\n\\n\\n\\n\\n\"},{\"title\":\"Lyft offers free rides
+  to COVID-19 vaccinations at CVS sites\",\"description\":\"Earlier this month, Uber
+  announced free and discounted rides to Walgreens pharmacies for COVID-19 vaccination
+  shots. This week Lyft announced something similar, but to CVS locations. \\nLyft
+  will pro...\"},{\"title\":\"Panasonic's new robot cat is super pricey, but at least
+  it can fart\",\"description\":\"Panasonic's first companion robot is named Nicobo,
+  a \\\"cat\\\" with a penchant for flatulence.  Read more...More about Cats, Mashable
+  Video, Robot, Panasonic, and Tech\\n\\n\\n\\n\\n\"},{\"title\":\"Stunning photo
+  shows Perseverance's Mars landing from above\",\"description\":\"NASA's Perseverance
+  rover shared an exciting photo on Friday from right before its wheels first touched
+  the surface of Mars.\\nIn the photo shared on the official Perseverance Twitter
+  account, we get...\"},{\"title\":\"Australian news app beats Facebook in App Store\",\"description\":\"Take
+  that Facebook. \\nA homegrown app from Australia Broadcasting Company (ABC) topped
+  iOS download charts in Australia, outpacing Facebook. \\nThat's important for one
+  big reason: Facebook just banne...\"},{\"title\":\"'It's a Sin' star Omari Douglas
+  guesses classic '80s bangers from the standout soundtrack\",\"description\":\"If
+  you haven't yet watched It’s A Sin, a brand new five-part series from Channel 4
+  and streaming on HBO Max, then you're missing out! \\nI sat down with one of the
+  actors, Omari Douglas, to jam out a...\"},{\"title\":\"It pays to be a PS Plus member
+  during the PlayStation Store's Double Discount sale\",\"description\":\"GET DOUBLE
+  THE SAVINGS WITH PS PLUS: Now through March 3, PlayStation Plus members can save
+  up to 80% on select games during the PlayStation Store's Double Discount sale. (Non-members
+  save up to 40...\"},{\"title\":\"Bleak thrills make Amazon's 'Tell Me Your Secrets'
+  a huge bummer\",\"description\":\"Television thrillers are complex by definition.
+  They have to keep the audience engaged and do so by dazzling them with twists, drama,
+  and shocking revelations that speak to the darkness at the hear...\"},{\"title\":\"Uh,
+  a 65-inch Samsung 8K TV is on sale for less than $2,000\",\"description\":\"Need
+  guidance at a glance? These are our favorite TV deals from Walmart, Best Buy, Dell,
+  and Amazon as of Feb. 19:\\n\\nSamsung 65-inch Q800T Series 8K UHD Smart TV (QN765Q800TAFXZA)
+  — $1,999.99 (save ...\"},{\"title\":\"20 best tweets of the week, including Ben
+  Affleck and smoking that Urkel\",\"description\":\"It's Friday, which, to be fair,
+  resembles most other days in the pandemic. It's not like we're headed out to the
+  bars, or going to parties, or attending fun family gatherings — at least you shouldn...\"},{\"title\":\"Get
+  a Roomba 981 robot vacuum and an Echo Dot for over $200 off\",\"description\":\"SAVE
+  UP TO $237.58: As of Feb. 19, get the iRobot Roomba 981 robot vacuum for only $349.99,
+  and choose to add on an Echo Dot smart speaker for an additional $10.\\n\\nCleaning
+  your own floors is so 202...\"},{\"title\":\"Apple is working on a MagSafe battery
+  pack for the iPhone 12, report claims\",\"description\":\"Apple will soon be putting
+  its MagSafe technology to better use. \\nThe company's iPhone 12 lineup of devices,
+  launched in 2020, supports magnetically attached add-ons. But aside from a wired
+  magneti...\"},{\"title\":\"Watch your favorite movie franchise for cheap with this
+  Prime Video deal\",\"description\":\"Save up to 50%: Shop Prime Video's new movie
+  bundles and get your favorite series for cheaper than buying each movie individually.\\n\\nIf
+  you start watching one movie in a series, you've got to watch ...\"},{\"title\":\"Best
+  laptop deals this weekend: Asus, Lenovo, Samsung, and more\",\"description\":\"\\nOUR
+  TOP PICK: Lenovo ThinkPad X1 Carbon Gen 8 — save $1,2876.60\\nBEST CHROMEBOOK DEAL:
+  Samsung Galaxy Touch-Screen Chromebook — save $300\\nBEST 2-IN-1 DEAL: Asus Chromebook
+  Flip C434 — save $53\\n\\n\\nWh...\"},{\"title\":\"I'm in love with the Coveys'
+  personality-matching outfits in 'To All The Boys: Always and Forever'\",\"description\":\"Welcome
+  to Thanks, I Love It, our series highlighting something onscreen we're obsessed
+  with this week. \\n\\nLast week, the final installment in the To All the Boys series
+  arrived on Netflix. And whil...\"},{\"title\":\"Android 12 has a new, easier way
+  to share Wi-Fi passwords\",\"description\":\"\\n Read more...\\n{\\\"player\\\":{\\\"description\\\":\\\"1234
+  won't cut it. \\\",\\\"image\\\":\\\"https://mondrian.mashable.com/uploads%252Fvideo_uploaders%252Fdistribution_thumb%252Fimage%252F87077%252F1268a951-517e-4351-99...\"},{\"title\":\"'Pushing
+  Daisies' deserves a resurrection\",\"description\":\"\\\"Name a canceled TV series
+  that deserves to come back” is a fun game for those who like to reminisce about
+  great shows that never got their due. In this current era of Hollywood, in which
+  resurrect...\"},{\"title\":\"Take the confusion out of reporting abuse, online harassment
+  with this app\",\"description\":\"Survivors of abuse are used to hearing, “What
+  evidence do you have to back that up?” or “Have you documented these incidents?”
+  when they turn to a police officer or the legal system for safety. \\nCr...\"}],\"id\":\"mashable\",\"updatedAt\":1613814986614}\n\n"
+techcrunch: "data: {\"headlines\":[{\"title\":\"Daily Crunch: Uber loses UK legal
+  challenge\",\"description\":\"Uber loses a legal battle over driver classification,
+  we survey mobility investors and new data suggests a COVID-19 vaccine should be
+  easier to transport. This is your Daily Crunch for February 19,...\"},{\"title\":\"Google
+  fires top AI ethics researcher Margaret Mitchell\",\"description\":\"Google has
+  fired Margaret Mitchell, the founder and former co-lead of the company’s ethical
+  AI team. Mitchell announced the news via a tweet. Google confirmed Mitchell’s firing
+  in a statement to Te...\"},{\"title\":\"Extra Crunch roundup: Optimized SaaS pricing,
+  recruiting growth experts, VC surveys, more\",\"description\":\"Thanks very much
+  for reading Extra Crunch this week!\"},{\"title\":\"WhatsApp details what will happen
+  to users who don’t agree to privacy changes\",\"description\":\"WhatsApp said earlier
+  this week that it will allow users to review its planned privacy update at “their
+  own pace” and will display a banner to better explain the changes in its terms.
+  But what happ...\"},{\"title\":\"Brex applies for bank charter, taps former Silicon
+  Valley Bank exec as CEO of Brex Bank\",\"description\":\"Brex is the latest fintech
+  to apply for a bank charter. The fast-growing company, which sells a credit card
+  tailored for startups with Emigrant Bank currently acting as the issuer, announced
+  Friday...\"},{\"title\":\"Ironclad’s Jason Boehmig: The objective of pricing is
+  to become less wrong over time\",\"description\":\"In 2017, Ironclad founder and
+  CEO Jason Boehmig was looking to raise a Series A. As a former lawyer, Boehmig had
+  a specific process for fundraising and an ultimate goal of finding the right investo...\"},{\"title\":\"Will
+  the Texas winter disaster deter further tech migration?\",\"description\":\"Austin
+  is known for its usually mild winters. But on February 12, a winter storm hit the
+  state — leading to over a week of freezing temperatures. This has resulted in a
+  statewide disaster with mill...\"},{\"title\":\"Dizzying view of Perseverance mid-descent
+  makes its ‘7 minutes of terror’ feel very real\",\"description\":\"The Perseverance
+  Mars rover landed safely yesterday, but only after a series of complex maneuvers
+  as it descended at high speed through the atmosphere, known by the team as the “seven
+  minutes of te...\"},{\"title\":\"Block Party’s Tracy Chou will join us at TechCrunch
+  Sessions: Justice on March 3\",\"description\":\"Tracy Chou’s resume is impressive.
+  She interned at RocketFuel, Google and Facebook before becoming a software engineer
+  at Quora and Pinterest. She is also a major advocate for diversity within the ...\"},{\"title\":\"With
+  $20M A round, Promise brings financial flexibility to outdated government and utility
+  payment systems\",\"description\":\"The last year has been one of financial hardship
+  for billions, and among the specific hardships is the elementary one of paying for
+  utilities, taxes and other government fees — the systems for whic...\"},{\"title\":\"3
+  strategies for elevating brand authority in 2021\",\"description\":\"Providing real
+  value through content is an excellent way to build authority in the short and long
+  term. The key is figuring out the best route for your investment.\"},{\"title\":\"Meet
+  the Female Founders Alliance startups from TC Include at TC Sessions: Justice 2021\",\"description\":\"We’re
+  less than two weeks away from TC Sessions: Justice 2021, a day-long deep dive into
+  the state of diversity, inclusion and equity in tech. March 3 is your opportunity
+  to hear from and engage wi...\"},{\"title\":\"Miami edtech startup Nearpod acquired
+  by Renaissance\",\"description\":\"Nearpod, the Miami-based edtech company, is being
+  acquired by Renaissance Holding Corp., a group that develops education technology.
+  While the deal hasn’t closed yet, Todd Brekhus, Chief Product Of...\"},{\"title\":\"Early-bird
+  pricing increases next week for TC Early Stage Operations & Fundraising\",\"description\":\"Just
+  because there are no shortcuts to startup success doesn’t mean you have to reinvent
+  the wheel. At TechCrunch Early Stage 2021, a virtual bootcamp experience in two
+  distinct parts, you’ll learn...\"},{\"title\":\"Fintech companies must balance the
+  pursuit of profit against ethical data usage\",\"description\":\"Big Tech has written
+  the playbook for what not to do with our data, while also laying a framework for
+  how to build exceptional experiences.\"},{\"title\":\"Marlon Nichols will discuss
+  how to secure seed funding at TechCrunch Early Stage 2021\",\"description\":\"We’re
+  excited to announce another terrific panel for our stacked TechCrunch Early Stage
+  event on April 1 & 2. Marlon Nichols will be joining us to discuss securing seed
+  funding. Nichols is intimate...\"},{\"title\":\"Pfizer-BioNTech’s COVID-19 vaccine
+  just got a lot easier to transport and distribute\",\"description\":\"The COVID-19
+  vaccine developed by Pfizer and BioNTech now has less stringent and extreme transportation
+  requirements than when it debuted. Originally, the mRNA-based vaccine had to be
+  maintained at...\"},{\"title\":\"10 investors predict MaaS, on-demand delivery and
+  EVs will dominate mobility’s post-pandemic future\",\"description\":\"\\\"Transportation
+  is important to basically all people and is a real mess, so it will likely continue
+  to be a hot topic and a source of investor interest for years to come.\\\"\"},{\"title\":\"A
+  fraction of Robinhood’s users are driving its runaway growth\",\"description\":\"Borrowing
+  a term from the casino trade, these whales generate the bulk of the company's revenue
+  stream.\"},{\"title\":\"Ex-General Catalyst and General Atlantic VC announces $68M
+  debut fund\",\"description\":\"As of 2019, the majority of venture firms — 65% —
+  still did not have a single female partner or GP at their firm, according to All
+  Raise. So naturally, anytime we hear of a new female-led fund, our...\"}],\"id\":\"techcrunch\",\"updatedAt\":1613814987204}\n\n"
+opm: "data: {\"headlines\":[{\"title\":\"Open - 2 hours Delayed Arrival - With Option
+  for Unscheduled Leave or Unscheduled Telework - Operating Status of the Washington,
+  DC area Federal Government\",\"description\":\"Federal offices in the Washington,
+  DC area are OPEN under 2 hours DELAYED ARRIVAL and employees have the OPTION FOR
+  UNSCHEDULED LEAVE OR UNSCHEDULED TELEWORK. Employees should plan to arrive for wo...\"},{\"title\":\"Office
+  Closure - Operating Status of the Washington, DC area Federal Government\",\"description\":\"FEDERAL
+  OFFICES in the Washington, DC area are CLOSED. Emergency employees and telework
+  employees continue to work. more\"},{\"title\":\"Open with Option for Unscheduled
+  Leave or Unscheduled Telework - Operating Status of the Washington, DC area Federal
+  Government\",\"description\":\"Federal offices in the Washington, DC area are OPEN
+  and employees have the OPTION for UNSCHEDULED LEAVE OR UNSCHEDULED TELEWORK. more\"},{\"title\":\"Open
+  - 2 hours Delayed Arrival - With Option for Unscheduled Leave or Unscheduled Telework
+  - Operating Status of the Washington, DC area Federal Government\",\"description\":\"Federal
+  offices in the Washington, DC area are OPEN under 2 hours DELAYED ARRIVAL and employees
+  have the OPTION FOR UNSCHEDULED LEAVE OR UNSCHEDULED TELEWORK. Employees should
+  plan to arrive for wo...\"},{\"title\":\"Open with Option for Unscheduled Leave
+  or Unscheduled Telework - Operating Status of the Washington, DC area Federal Government\",\"description\":\"Federal
+  offices in the Washington, DC area are OPEN and employees have the OPTION for UNSCHEDULED
+  LEAVE OR UNSCHEDULED TELEWORK. more\"},{\"title\":\"Open with Option for Unscheduled
+  Leave or Unscheduled Telework - Operating Status of the Washington, DC area Federal
+  Government\",\"description\":\"Federal offices in the Washington, DC area are OPEN
+  and employees have the OPTION for UNSCHEDULED LEAVE OR UNSCHEDULED TELEWORK. more\"},{\"title\":\"Open
+  - Operating Status of the Washington, DC area Federal Government\",\"description\":\"Federal
+  offices in the Washington, DC area are OPEN. more\"},{\"title\":\"Open - Delayed
+  Arrival - Employees Must Report to Their Office No Later Than 10:00 am - with Option
+  for Unscheduled Leave or Unscheduled Telework. - Operating Status of the Washington,
+  DC area Federal Government\",\"description\":\"Federal offices in the Washington,
+  DC area are OPEN under a DELAYED ARRIVAL where employees must REPORT TO THEIR OFFICE
+  NO LATER THAN 10:00 am and have the OPTION FOR UNSCHEDULED LEAVE OR UNSCHEDUL...\"},{\"title\":\"Open
+  with Option for Unscheduled Leave or Unscheduled Telework - Operating Status of
+  the Washington, DC area Federal Government\",\"description\":\"Federal offices in
+  the Washington, DC area are OPEN and employees have the OPTION for UNSCHEDULED LEAVE
+  OR UNSCHEDULED TELEWORK. more\"},{\"title\":\"Open, the Federal Government will
+  begin a phased transition to normal operations in line with the national guidelines
+  to Open Up America Again. Agencies will make operating decisions based on State
+  or locality of duty stations and other factors.  Employees should contact their
+  supervisor with any questions regarding Agency- or office-specific operating status.
+  - Operating Status of the Washington, DC area Federal Government\",\"description\":\"
+  more\"},{\"title\":\"Open with maximum Telework flexibilities to all current Telework
+  eligible employees, pursuant to direction from Agency Heads - Operating Status of
+  the Washington, DC area Federal Government\",\"description\":\" more\"},{\"title\":\"Open
+  with maximum Telework flexibilities to all current Telework eligible employees,
+  pursuant to direction from Agency Heads - Operating Status of the Washington, DC
+  area Federal Government\",\"description\":\" more\"},{\"title\":\"Early Departure
+  - 4 hours Staggered Early Release - All Employees Must Depart No Later Than 1:00
+  pm - Operating Status of the Washington, DC area Federal Government\",\"description\":\"Employees
+  of Federal offices in the Washington, DC area are authorized for early departure.
+  Employees should depart 4 hours earlier than their normal departure time and may
+  request UNSCHEDULED LEAV...\"},{\"title\":\"Open with Option for Unscheduled Leave
+  or Unscheduled Telework - Operating Status of the Washington, DC area Federal Government\",\"description\":\"Federal
+  offices in the Washington, DC area are OPEN and employees have the OPTION for UNSCHEDULED
+  LEAVE OR UNSCHEDULED TELEWORK. more\"},{\"title\":\"Open with Option for Unscheduled
+  Leave or Unscheduled Telework - Operating Status of the Washington, DC area Federal
+  Government\",\"description\":\"Federal offices in the Washington, DC area are OPEN
+  and employees have the OPTION for UNSCHEDULED LEAVE OR UNSCHEDULED TELEWORK. more\"},{\"title\":\"Office
+  Closure - Operating Status of the Washington, DC area Federal Government\",\"description\":\"FEDERAL
+  OFFICES in the Washington, DC area are CLOSED. Emergency employees and telework
+  employees continue to work. more\"},{\"title\":\"Open - 2 hours Delayed Arrival
+  - With Option for Unscheduled Leave or Unscheduled Telework - Operating Status of
+  the Washington, DC area Federal Government\",\"description\":\"Federal offices in
+  the Washington, DC area are OPEN under 2 hours DELAYED ARRIVAL and employees have
+  the OPTION FOR UNSCHEDULED LEAVE OR UNSCHEDULED TELEWORK. Employees should plan
+  to arrive for wo...\"},{\"title\":\"Open - 3 hours Delayed Arrival - With Option
+  for Unscheduled Leave or Unscheduled Telework - Operating Status of the Washington,
+  DC area Federal Government\",\"description\":\"Federal offices in the Washington,
+  DC area are OPEN under 3 hours DELAYED ARRIVAL and employees have the OPTION FOR
+  UNSCHEDULED LEAVE OR UNSCHEDULED TELEWORK. Employees should plan to arrive for wo...\"},{\"title\":\"Early
+  Departure - 2 hours Staggered Release - Operating Status of the Washington, DC area
+  Federal Government\",\"description\":\"Employees of Federal offices in the Washington,
+  DC area are authorized for early departure. Employees should depart 2 hours earlier
+  than their normal departure times and may request UNSCHEDULED LEA...\"},{\"title\":\"Open
+  - Operating Status of the Washington, DC area Federal Government\",\"description\":\"Federal
+  offices in the Washington, DC area are OPEN.\\r\\n\\r\\nEach employee should refer
+  to their own agency for communications and guidance on resumption of duties.  more\"},{\"title\":\"Open
+  - 2 hours Delayed Arrival - Operating Status of the Washington, DC area Federal
+  Government\",\"description\":\"Federal offices in the Washington, DC area are OPEN
+  under 2 hours DELAYED ARRIVAL. Employees should plan to arrive for work no more
+  than 2 hours later than they would be expected to arrive. more\"},{\"title\":\"Office
+  Closure - Operating Status of the Washington, DC area Federal Government\",\"description\":\"FEDERAL
+  OFFICES in the Washington, DC area are CLOSED. Emergency employees and telework
+  employees continue to work. more\"},{\"title\":\"Due to a lapse in appropriations,
+  Federal Government operations vary by agency. - Operating Status of the Washington,
+  DC area Federal Government\",\"description\":\"Employees should refer to their home
+  agency for guidance on reporting for duty. more\"},{\"title\":\"All federal offices
+  and agencies are closed today in observance of the Christmas holiday.  Please refer
+  back to this site on the next official first day of work. - Operating Status of
+  the Washington, DC area Federal Government\",\"description\":\"Employees should
+  refer to their home agency for guidance on reporting for duty. more\"},{\"title\":\"Subject
+  to the Executive Order 11582, signed by President Trump, Executive Branch, Non-Postal
+  Federal Employees and those who cannot be excused from national security, defense,
+  and other public need; or those who, in the judgement of the agency head, deems
+  necessary; will be excused today from work, with pay and without charge to leave.
+  \ For pay and leave purposes, December 24, 2018 will be treated as falling within
+  the scope of statuses and Executive Orders governing holidays. - Operating Status
+  of the Washington, DC area Federal Government\",\"description\":\"Employees should
+  refer to their home agency for guidance on reporting for duty. more\"}],\"id\":\"opm\",\"updatedAt\":1613814987989}\n\n"
+seattle-times: "data: {\"headlines\":[],\"id\":\"seattle-times\",\"updatedAt\":1613815070512}\n\n"
+pau: "data: {\"headlines\":[],\"id\":\"pau\",\"updatedAt\":1614205515327}\n\n"
+google_calendar: "data: {\"events\":[{\"start\":\"2021-02-25T10:00:00+00:00\",\"end\":\"2021-02-25T11:30:00+00:00\",\"summary\":\"RCP02-S
+  TP G3 Audit des infras RT\"},{\"start\":\"2021-02-25T12:30:00+00:00\",\"end\":\"2021-02-25T14:00:00+00:00\",\"summary\":\"RCP02-S
+  TP G3 Audit des infras RT\"},{\"start\":\"2021-02-26T07:00:00+00:00\",\"end\":\"2021-02-26T10:00:00+00:00\",\"summary\":\"M4205C
+  TP G3 Téléphonie sur IP\"},{\"start\":\"2021-02-26T10:00:00+00:00\",\"end\":\"2021-02-26T11:30:00+00:00\",\"summary\":\"RCP02-S
+  TP G3 Audit des infras RT\"},{\"start\":\"2021-02-26T12:30:00+00:00\",\"end\":\"2021-02-26T14:00:00+00:00\",\"summary\":\"RCP02-S
+  TP G3 Audit des infras RT\"},{\"start\":\"2021-03-01T07:00:00+00:00\",\"end\":\"2021-03-01T08:30:00+00:00\",\"summary\":\"OS01-M
+  Cours Algèbre\"}],\"id\":\"google_calendar\",\"updatedAt\":1614205668683}\n\n"

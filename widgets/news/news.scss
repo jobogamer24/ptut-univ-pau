@@ -1,0 +1,43 @@
+// ----------------------------------------------------------------------------
+// Sass declarations
+// ----------------------------------------------------------------------------
+$background-color:  #f1c40f;
+$value-color:       #fff;
+ 
+$title-color:       rgba(255, 255, 255, 0.7);;
+$moreinfo-color:    dark;
+ 
+// ----------------------------------------------------------------------------
+// Widget-news styles
+// ----------------------------------------------------------------------------
+.widget-news {
+
+  background-color: $background-color;
+  vertical-align: baseline !important;
+  display: block;
+  margin-block-start: 1.33em;
+  margin-block-end: 1.33em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  padding: 10px;
+
+  .headline-container {
+    display: none;
+  }
+
+  .title {
+    font-size: 1.2em;
+  }
+
+  .description {
+    font-size: 0.8em;
+    color: $moreinfo-color;
+  }
+
+  .heading{
+    color: black;
+  }
+
+
+}

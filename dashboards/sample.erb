@@ -1,0 +1,27 @@
+<% content_for :title do %>Dashboard<% end %>
+<div class="gridster">
+  <ul>
+
+    <li data-row="1" data-col="1" data-sizex="2" data-sizey="1">
+      <div data-id="welcome" data-view="Text" data-title="Bienvenue" data-text="Salle TP Station" data-moreinfo=""></div>
+    </li>
+
+    <li data-row="1" data-col="6" data-sizex="2" data-sizey="1">
+      <div data-id="weather" data-view="Weather"></div>
+    </li>
+
+    <li data-row="1" data-col="3" data-sizex="3" data-sizey="1">
+      <div data-view="Clock"></div>
+      <i class="far fa-clock icon-background icon-clock-background"></i>
+    </li>
+
+    <li data-row="2" data-col="6" data-sizex="2" data-sizey="5">
+      <div data-id="pau" data-view="News" data-title="Actualités" data-interval="30"></div>
+    </li>
+	
+    <li data-row="2" data-col="1" data-sizex="5" data-sizey="5">
+      <div data-id="google_calendar" data-view="GoogleCalendar"></div>
+    </li>
+	
+  </ul>
+</div>

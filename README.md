@@ -1,2 +1,1 @@
-# ptut-univ-pau
-Projet RT2 
+Check out http://smashing.github.io/smashing for more information.

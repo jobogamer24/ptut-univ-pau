@@ -1,0 +1,36 @@
+<script type='text/javascript'>
+ $(function() {
+   Dashing.gridsterLayout('[{"col":1,"row":1,"size_x":1,"size_y":1},{"col":4,"row":1,"size_x":1,"size_y":1},{"col":2,"row":1,"size_x":2,"size_y":1},{"col":4,"row":2,"size_x":1,"size_y":1},{"col":2,"row":2,"size_x":2,"size_y":1},{"col":1,"row":2,"size_x":1,"size_y":1}]')
+ });
+ </script>
+
+<% content_for :title do %>Dashboard<% end %>
+<div class="gridster">
+  <ul>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="welcome" data-view="Text" data-title="Bienvenue" data-text="Salle TP Station" data-moreinfo=""></div>
+    </li>
+
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="weather" data-view="Weather"></div>
+    </li>
+
+    <li data-row="1" data-col="1" data-sizex="2" data-sizey="1">
+      <div data-view="Clock"></div>
+      <i class="far fa-clock icon-background"></i>
+    </li>
+
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="pau" data-view="News" data-title="Nouveautés" data-interval="30"></div>
+    </li>
+	
+	<li data-row="1" data-col="1" data-sizex="2" data-sizey="1">
+	  <div data-id="google_calendar" data-view="GoogleCalendar"></div>
+	</li>
+	
+	<li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="welcome" data-view="Text2" data-title="Projet Tut" data-text="" data-moreinfo=""></div>
+    </li>
+	
+  </ul>
+</div>

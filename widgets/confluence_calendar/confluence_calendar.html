@@ -1,0 +1,17 @@
+
+<table>
+    <tr data-foreach-item="edt">
+        <td class="edt-date" data-bind="item.day"></td>
+        <td>
+            <table>
+                <tfoot class="edt" data-foreach-item="item.events">
+                    <tr>
+                        <td style="font-weight: bold; width: 110px" class="ccrange" data-bind="item.range"></td>
+                        <td><i style="margin-left: 10px;" class="fas fa-stream"></i></td>
+                        <td data-bind="item.summary" class="title"></td>
+                    </tr>
+                </tfoot>
+            </table>
+        </td>
+    </tr>
+</table>

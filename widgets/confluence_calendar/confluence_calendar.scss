@@ -1,0 +1,86 @@
+$background-color: #353b48;
+$days-color:       #40739e;
+$board-color:      rgba(255, 255, 255, 0.7);
+$sprint-color:     rgba(255, 255, 255, 0.7);
+$updated-at-color: rgba(255, 255, 255, 0.7);
+
+.widget-confluence-calendar {
+  background-color: $background-color;
+  border-radius: 5px !important;
+
+  .edt {
+    border-radius: 32px;
+    color: #fff;
+    display: flex;
+    flex: 1 1 auto;
+    margin-left: 15px;
+    margin-right: 15px;
+    outline: none;
+    overflow: hidden;
+    font-size: 17px;
+    text-rendering: geometricPrecision;
+    height: 100%;
+    background-color: $days-color;
+    border-collapse : separate;
+    border-spacing : 7px;
+    margin-bottom: 10px;
+    box-shadow: 10px 10px 5px -3px rgba(0,0,0,0.24);
+    -webkit-box-shadow: 10px 10px 5px -3px rgba(0,0,0,0.24);
+    -moz-box-shadow: 10px 10px 5px -3px rgba(0,0,0,0.24);
+  }
+
+  .edt-date {
+    border-radius: 32px;
+    color: #fff;
+    display: flex;
+    flex: 1 1 auto;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding: 15px;
+    outline: none;
+    overflow: hidden;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    text-rendering: geometricPrecision;
+    height: 100%;
+    background-color: #e1b12c;
+    border-collapse : separate;
+    border-spacing : 8px;
+    margin-bottom: 10px;
+    box-shadow: 10px 10px 5px -3px rgba(0,0,0,0.24);
+    -webkit-box-shadow: 10px 10px 5px -3px rgba(0,0,0,0.24);
+    -moz-box-shadow: 10px 10px 5px -3px rgba(0,0,0,0.24);
+    text-transform: capitalize;
+  }
+  
+
+  td {
+    text-align: center;
+  }
+
+  .board {
+    color: $board-color;
+  }
+
+  .sprint-name {
+    color: $sprint-color;
+  }
+
+  .days-remaining {
+    color: $days-color;
+  }
+
+  .updated-at {
+    color:$updated-at-color;
+  }
+
+  .attendees {
+    color:$sprint-color;
+    font-size: 0.6em;
+  }
+
+  tr.hidden {
+    display: none;
+  }
+}

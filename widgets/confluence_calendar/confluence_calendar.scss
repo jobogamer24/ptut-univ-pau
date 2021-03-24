@@ -1,8 +1,5 @@
 $background-color: #353b48;
 $days-color:       #40739e;
-$board-color:      rgba(255, 255, 255, 0.7);
-$sprint-color:     rgba(255, 255, 255, 0.7);
-$updated-at-color: rgba(255, 255, 255, 0.7);
 
 .widget-confluence-calendar {
   background-color: $background-color;
@@ -27,6 +24,10 @@ $updated-at-color: rgba(255, 255, 255, 0.7);
     box-shadow: 10px 10px 5px -3px rgba(0,0,0,0.24);
     -webkit-box-shadow: 10px 10px 5px -3px rgba(0,0,0,0.24);
     -moz-box-shadow: 10px 10px 5px -3px rgba(0,0,0,0.24);
+	white-space: nowrap;
+	width: 610px;
+	
+	
   }
 
   .edt-date {
@@ -35,8 +36,7 @@ $updated-at-color: rgba(255, 255, 255, 0.7);
     display: flex;
     flex: 1 1 auto;
     margin-left: 15px;
-    margin-right: 15px;
-    padding: 15px;
+    padding: 10px;
     outline: none;
     overflow: hidden;
     font-size: 17px;
@@ -52,35 +52,10 @@ $updated-at-color: rgba(255, 255, 255, 0.7);
     -webkit-box-shadow: 10px 10px 5px -3px rgba(0,0,0,0.24);
     -moz-box-shadow: 10px 10px 5px -3px rgba(0,0,0,0.24);
     text-transform: capitalize;
+	width: 105px;
   }
-  
 
   td {
     text-align: center;
-  }
-
-  .board {
-    color: $board-color;
-  }
-
-  .sprint-name {
-    color: $sprint-color;
-  }
-
-  .days-remaining {
-    color: $days-color;
-  }
-
-  .updated-at {
-    color:$updated-at-color;
-  }
-
-  .attendees {
-    color:$sprint-color;
-    font-size: 0.6em;
-  }
-
-  tr.hidden {
-    display: none;
   }
 }

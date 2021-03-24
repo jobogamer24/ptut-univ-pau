@@ -66,7 +66,6 @@ end
 def update_calendar()
     ics       = get_calendar()
     calendars = Icalendar::Calendar.parse(ics)
-	puts ics
 
     calendars.each do |calendar|
 
@@ -87,7 +86,6 @@ def update_calendar()
           take(7)
 
       send_event("Confluence-Calendar", {:data => cal_data})
-	  puts cal_data
 
     end
 end

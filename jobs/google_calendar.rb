@@ -25,7 +25,7 @@ SCHEDULER.every '5m', :first_in => 4 do |job|
 
   events = events.sort { |a, b| a[:start] <=> b[:start] }
 
-  events = events[0..5]
+  events = events[0..6]
 
   send_event('Confluence-Calendar', { data: events })
 
